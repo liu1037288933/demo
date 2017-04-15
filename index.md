@@ -89,7 +89,7 @@
 				<div class="nav">
 					<div class="nav-main">
 						<div class="nav-logo">
-							<a href="index.html">大家好我是刘先生</a>
+							<a href="test.html">大家好我是刘先生</a>
 						</div>
 						<div class="nav-actions">
 							<div class="nav-user">
